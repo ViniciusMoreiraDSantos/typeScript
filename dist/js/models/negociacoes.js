@@ -1,6 +1,7 @@
 export class Negociacoes {
     constructor() {
         this.negociacoes = [];
+        // teste
     }
     adiciona(negociacao) {
         this.negociacoes.push(negociacao);
